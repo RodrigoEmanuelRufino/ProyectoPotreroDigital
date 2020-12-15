@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\PotreroDigital"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PotreroDigital"
+	}
+}
